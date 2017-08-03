@@ -1,0 +1,15 @@
+{
+  "name": "stackathon",
+  "version": "1.0.0",
+  "description": "mapping infectious disease incidences around the world ",
+  "main": "index.html",
+  "scripts": {
+    "test": "index.html"
+  },
+  "author": "Noor-Grewal",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^4.3.0",
+    "eslint-plugin-react": "^7.1.0"
+  }
+}
