@@ -4,12 +4,19 @@
   "description": "mapping infectious disease incidences around the world ",
   "main": "index.html",
   "scripts": {
-    "test": "index.html"
+    "test": "index.html",
+    "start": "nodemon app.js"
   },
   "author": "Noor-Grewal",
   "license": "ISC",
   "devDependencies": {
     "eslint": "^4.3.0",
     "eslint-plugin-react": "^7.1.0"
+  },
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3",
+    "morgan": "^1.8.2",
+    "path": "^0.12.7"
   }
 }
