@@ -1,0 +1,39 @@
+.land {
+    fill: #99B898;
+}
+
+.boundary {
+    fill: none;
+    stroke: white;
+    stroke-width: 0.1%;
+}
+
+.graph-svg-component {
+    margin: 0%;
+    padding: 0%;
+    background-color: #2A363B;
+}
+
+h5 {
+    font-family: 'Open Sans', sans-serif;
+    background-color: #2A363B;
+    color: #FF847C;
+    text-align: center;
+    padding: 0.5%;
+    margin: 0;
+    width: 1290px;
+}
+
+div.tooltip {
+    position: absolute;
+    text-align: center;
+    width: 7%;
+    height: 7%;
+    padding: 0.5%;
+    font: 12px 'Open Sans', sans-serif;
+    background: #2A363B;
+    color: #FECEA8;
+    border: 0;
+    border-radius: 8px;
+    pointer-events: none;
+}
