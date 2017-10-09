@@ -1,7 +1,7 @@
 {
   "name": "stackathon",
   "version": "1.0.0",
-  "description": "mapping infectious disease incidences around the world ",
+  "description": "median availability of selected generic medicines around the world (by countries)",
   "main": "index.html",
   "scripts": {
     "test": "index.html",
